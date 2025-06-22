@@ -7,26 +7,25 @@ Katrina Deva Bianchi|https://i.imgur.com/tKbNVV4.jpeg|human|3|buvo pradėjusi sp
 West Elliot Harlow|https://i.imgur.com/no0B1Ii.png|supernatural|9|antgamtinio pasaulio princas
 Demetria Nadira Harlow|https://i.imgur.com/1FaG9ha.png|supernatural|10
 Zachariah Gideon Lund|https://i.pinimg.com/236x/12/52/e3/1252e323eccb18b4a1ec864f55e1d08b.jpg|supernatural|3
-Joshua William Lund|https://i.ibb.co/vQkY9jx/pookstar.jpg|supernatural|3
+Joshua William Lund|https://i.ibb.co/vQkY9jx/pookstar.jpg|supernatural|3|šiek tiek išpopuliarėjo po to, kai pasklido kalbos apie jo kelionę į paralelinę visatą
 Dante Konstantin Lund|https://i.pinimg.com/736x/8f/9e/e7/8f9ee7169cbf6d3589d5c45335b8cd12.jpg|supernatural|1
-Florence Elise Winslow|https://i.imgur.com/2kX033t.png|supernatural|7
+Florence Elise Winslow|https://i.imgur.com/2kX033t.png|supernatural|8
 Carmen Iscariot Denali|https://i.pinimg.com/736x/e4/de/f3/e4def39a8d1029d397cafa468aa8f7b3.jpg|supernatural|9
-Camille Lillian Boucher|https://i.imgur.com/YVG24NO.png|supernatural|7
+Camille Lillian Boucher|https://i.imgur.com/YVG24NO.png|supernatural|8
 Charlotte Iris Dreschler|https://i.pinimg.com/736x/cc/fd/e3/ccfde3ef72b822e89493236ee153aeb5.jpg|supernatural|10
 Søren Ragnar Lindström|https://i.imgur.com/yHRh160.png|human|1|tėvas - didelės įmonės vadovas, gerai žinomas savo nišoje, o brolis - futbolo superžvaigždė, tad per juos truputis žinomumo nubyrėjo ir Sorenui
 Danila Halle Lindström|https://i.pinimg.com/736x/1e/6b/ef/1e6bef8bfc788c17000997fa419f7cd0.jpg|human|8|futbolo superžvaigždė
 Michael Romeo Harlow|https://i.pinimg.com/236x/fe/25/33/fe2533e0c735779149e7be0a247c7a3e.jpg|supernatural|10
-Randall Frank Dreschler|https://i.imgur.com/PAdAEcS.png|supernatural|8
+Randall Frank Dreschler|https://i.imgur.com/PAdAEcS.png|supernatural|7
 Nathaniel Dean Harlow|https://i.ibb.co/bHvRZzP/tumblr-851888ff6d8d4d7d4b10330901ed8e62-a3a37b49-1280.png|supernatural|10
 Demetri Lorenzo Volturi|https://i.ibb.co/bBvr44B/pw.jpg|supernatural|10
 Veronique Helena Dreschler|https://i.ibb.co/gzG8V3h/pookiecutie.jpg|supernatural|8
 Jonathan Fort Harlow|https://i.imgur.com/HAshfY6.jpg|supernatural|10|antgamtinėje bendruomenėje nėra uncommon mažiems vaikams grasinti ir juos gąsdinti, kad jeigu neklausys, tai tėvai atiduos juos piktam medžiotojui Džonui Harlow, kad juos tinkamai išauklėtų
 Felix Constantine Volturi|https://i.pinimg.com/736x/96/13/37/9613370ecbef3f66413e655986484b91.jpg|supernatural|10
-Myrtle Maeve Gray|https://i.ibb.co/sbMkwj2/mother.jpg|supernatural|5
 Bianca Juliett Harlow-Bakir|https://i.pinimg.com/236x/bc/a7/c2/bca7c253acc52d54d5609d7084ed2852.jpg|supernatural|1
 Oliver Noah Harlow|https://i.pinimg.com/236x/9d/17/04/9d17046bcc4d77bfb0151047c3744ec6.jpg|supernatural|3
 Reinhardt Gustav Lund|https://i.imgur.com/P5T7kPv.png|supernatural|8
-Leonard Bastian Lund|https://i.pinimg.com/236x/e9/1a/94/e91a94bb9a8b6ab1747dc540abedae1b.jpg|supernatural|8
+Leonard Bastian Lund|https://i.pinimg.com/236x/e9/1a/94/e91a94bb9a8b6ab1747dc540abedae1b.jpg|supernatural|6
 Matthew Lúcio Harlow|https://i.pinimg.com/236x/05/bb/e2/05bbe25b32769fbd6343d88f3ac81e76.jpg|supernatural|7
 Alessandra Maria Mancini-Bianchi|https://i.pinimg.com/736x/99/3c/02/993c023dee96c7d524c07e3850e3c84d.jpg|supernatural|2
 Niccolò Davide Bianchi|https://i.pinimg.com/236x/e7/64/6c/e7646caeeec6256c7d6314aab684d9fa.jpg|supernatural|3
@@ -41,9 +40,9 @@ Marcus Volturi|https://64.media.tumblr.com/88161832827440819062e1302e792143/a26e
 Jane Volturi|https://64.media.tumblr.com/390a684cf458e62b775500b5443eecd4/ad7f2c4d631dd469-f8/s500x750/5c138ae5deffe599c955effd7887ee4b67801ee0.png|supernatural|10
 Athenodora Thea Volturi|https://i.ibb.co/KLy1pmf/tumblr-e85e51b86858d0c9fbdc53f3bc890ae7-9873503a-500.webp|supernatural|10
 Kenneth James Sinclair|https://i.pinimg.com/736x/9e/52/83/9e528330c23348bd5da0d6d60b84cc0c.jpg|human|3|stambus verslinikas; žinomas savo nišoje
-Anders Erik Nilsson|https://i.pinimg.com/736x/ab/b6/94/abb694b4d1e541bdf5d519afa01e32af.jpg|supernatural|7
-Leah Marie Clearwater|https://i.pinimg.com/736x/3a/d6/af/3ad6af1f2da73f882bc42a7bad95eb41.jpg|supernatural|7
-Zara Elizabeth Lennox|https://i.pinimg.com/736x/f4/bc/3c/f4bc3c82047ba4651dc122c90d7bda20.jpg|supernatural|7
+Anders Erik Nilsson|https://i.pinimg.com/736x/ab/b6/94/abb694b4d1e541bdf5d519afa01e32af.jpg|supernatural|8
+Leah Marie Clearwater|https://i.pinimg.com/736x/3a/d6/af/3ad6af1f2da73f882bc42a7bad95eb41.jpg|supernatural|8
+Zara Elizabeth Lennox|https://i.pinimg.com/736x/f4/bc/3c/f4bc3c82047ba4651dc122c90d7bda20.jpg|supernatural|8
 Eleazar Silas Denali|https://i.pinimg.com/736x/0d/2e/e0/0d2ee067c63afff3d4c94067b7300b61.jpg|supernatural|5
 Clara Moretti|https://i.pinimg.com/736x/93/6d/81/936d817a8340134e49e137fd73a77f32.jpg|human|6|modelis
 Diego Caruso|https://i.pinimg.com/736x/a9/a2/d1/a9a2d1cbad6dfa07a81d0827eeac94ae.jpg|human|4|žurnalistas
