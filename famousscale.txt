@@ -1,8 +1,7 @@
 Klaus Jakob Lund|https://i.pinimg.com/736x/2e/8e/24/2e8e2458c365feabb96261383b8537ed.jpg|supernatural|4|šiek tiek išgarsėjo (neigiamai) po to, kai pasikėsino nužudyti Demetriją medžiotojų konferencijos metu
 Bernadetta Ottavia Conti|https://64.media.tumblr.com/443cadc7d93a586bf8874590b0f2f5a7/d0fb60db947dcfcc-5e/s400x600/12c2dafa94b36825f3299d0cdaae9cac494adae1.png|human|5|turi gana populiarų podcastą
 Chiara Ilaria Lombardi|https://64.media.tumblr.com/84f7b6c579b1fa91b6e683f29189380f/df3dfaae8b8eec89-0a/s400x600/0dd04c695cf15afa9c059dea46cfdf1058286da1.png|human|9|tuoj taps pasaulinio masto music superstar
-Daniel Apollo Dreschler|https://i.imgur.com/0f7rM9P.png|supernatural|5|kadangi tėvai šiek tiek žinomi, populiarumo nutrupėjo ir jam
-Deianeira Cecilia Lund|https://i.pinimg.com/236x/05/1f/4f/051f4f8233ef382b04d6aa89aef6ffc7.jpg|supernatural|2|dėl to, kaip šeima pasižymėjusi antgamtiniame pasaulyje, kai kurie yra girdėję ir apie Dėją
+Deianeira Cecilia Lund|https://i.pinimg.com/236x/05/1f/4f/051f4f8233ef382b04d6aa89aef6ffc7.jpg|supernatural|2
 Hera Melody Harlow|https://i.imgur.com/y35qSYX.png|supernatural|9|antgamtinio pasaulio princesė
 Katrina Deva Bianchi|https://i.imgur.com/tKbNVV4.jpeg|human|3|buvo pradėjusi sparčiai populiarėti visame pasaulyje kaip modelis, susirinko nemažai instagramo sekėjų; šią karjerą užbaigė, bet liko šiek tiek sekėjų, kurie vis dar domisi, kuo ji užsiima
 West Elliot Harlow|https://i.imgur.com/no0B1Ii.png|supernatural|9|antgamtinio pasaulio princas
@@ -32,7 +31,6 @@ Leonard Bastian Lund|https://i.pinimg.com/236x/e9/1a/94/e91a94bb9a8b6ab1747dc540
 Matthew Lúcio Harlow|https://i.pinimg.com/236x/05/bb/e2/05bbe25b32769fbd6343d88f3ac81e76.jpg|supernatural|7
 Alessandra Maria Mancini-Bianchi|https://i.pinimg.com/736x/99/3c/02/993c023dee96c7d524c07e3850e3c84d.jpg|supernatural|2
 Niccolò Davide Bianchi|https://i.pinimg.com/236x/e7/64/6c/e7646caeeec6256c7d6314aab684d9fa.jpg|supernatural|3
-The British Royal Family|https://i.pinimg.com/736x/68/1b/60/681b60aa5b2909317d5701dfc52492e3.jpg|human|10
 Magdalena Judi Cadorna|https://i.imgur.com/eJCr4Sj.png|supernatural|6
 Theodosius Valerian Barca|https://i.imgur.com/ZMOb5kP.png|supernatural|4
 Sophia Martelli|https://i.pinimg.com/474x/15/76/3b/15763be225937f27e8790aa4dd28a489.jpg|human|6|aktorė
@@ -43,4 +41,4 @@ Renata Volturi|https://64.media.tumblr.com/b62b93a028609a3c6cc1ce4aee1abf1f/e988
 Marcus Volturi|https://64.media.tumblr.com/88161832827440819062e1302e792143/a26e9fb2ca42cb20-bc/s500x750/30d5db93885fcf35bc9ad6222399189c376be591.jpg|supernatural|10
 Jane Volturi|https://64.media.tumblr.com/390a684cf458e62b775500b5443eecd4/ad7f2c4d631dd469-f8/s500x750/5c138ae5deffe599c955effd7887ee4b67801ee0.png|supernatural|10
 Athenodora Thea Volturi|https://i.ibb.co/KLy1pmf/tumblr-e85e51b86858d0c9fbdc53f3bc890ae7-9873503a-500.webp|supernatural|10
-Kenneth James Sinclair|https://i.pinimg.com/736x/9e/52/83/9e528330c23348bd5da0d6d60b84cc0c.jpg|human||3|stambus verslinikas; žinomas savo nišoje
+Kenneth James Sinclair|https://i.pinimg.com/736x/9e/52/83/9e528330c23348bd5da0d6d60b84cc0c.jpg|human|3|stambus verslinikas; žinomas savo nišoje
