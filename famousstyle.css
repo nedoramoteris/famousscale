@@ -1,0 +1,443 @@
+
+body, html {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #21211F;
+    font-family: 'Montserrat', sans-serif;
+    color: #6E6761;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.character-list {
+    width: 220px;
+    overflow-y: auto;
+    padding: 20px;
+    background-color: #292725;
+    color: #6E6761;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+}
+
+.character-list h2 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #444;
+    color: #f0f0f0;
+    transition: color 0.3s ease, border-color 0.3s ease;
+    font-family: 'Lemon/Milk light', sans-serif;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.character-card {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.character-card:hover {
+    background-color: #33312e;
+    transform: translateX(5px);
+}
+
+.character-image {
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 100%;
+    object-fit: cover !important;
+    margin-right: 15px;
+    border: 0px solid #555;
+    transition: border-color 0.3s ease;
+}
+
+.character-info {
+    flex: 1;
+}
+
+.character-name {
+    max-width: 100%;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+    font-weight: bold;
+}
+
+.character-details {
+    font-size: 0.8em;
+    color: grey;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fame-container {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    background-color: #21211F;
+}
+
+.fame-header {
+    font-family: 'Lemon/Milk light', sans-serif;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+.fame-category {
+    margin-bottom: 30px;
+}
+
+.fame-category h3 {
+    font-family: 'Lemon/Milk light', sans-serif;
+    letter-spacing: 1px;
+    color: #6E6761;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.fame-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #292725;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.fame-item:hover {
+    background-color: #33312e;
+}
+
+.fame-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+}
+
+.fame-name {
+    min-width: 150px;
+    font-weight: bold;
+}
+
+.fame-level {
+    width: 200px;
+    height: 10px;
+    background-color: #333;
+    border-radius: 5px;
+    margin: 0 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+.fame-level-fill {
+    height: 100%;
+    border-radius: 5px;
+}
+
+.fame-value {
+    width: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.search-container {
+    margin-bottom: 15px;
+    width: 100%;
+    position: relative;
+}
+
+.search-input {
+    font-size: 10px;
+    width: 100%;
+    padding: 10px;
+    border: 0px solid #ddd;
+    border-radius: 6px;
+    font-family: 'motserrat', sans-serif;
+    font-weight: 400;
+    background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+    color: white;
+}
+
+.search-input::placeholder {
+    color: white;
+    text-transform: lowercase;
+}
+
+.dark-mode-toggle {
+  display:none !important;
+    position: fixed;
+    bottom: 35px;
+    right: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    z-index: 999;
+    font-family: 'archivo', sans-serif;
+    font-size: 20px;
+    color: #6E6761;
+    text-align: center;
+    width: 15px;
+    height: 15px;
+    background-color: #292725;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dark-mode-toggle:hover {
+    color: #aba19e;
+}
+
+body.dark-mode {
+    background: white;
+}
+
+body.dark-mode .character-list {
+    background-color: #f5f5f5;
+}
+
+body.dark-mode .fame-container {
+    background-color: white;
+}
+
+body.dark-mode .fame-item {
+    background-color: #f0f0f0;
+}
+
+body.dark-mode .fame-item:hover {
+    background-color: #e0e0e0;
+}
+
+body.dark-mode .fame-category h3 {
+    color: #333;
+    border-bottom-color: #ddd;
+}
+
+body.dark-mode .dark-mode-toggle {
+    background-color: #f5f5f5;
+}
+/* [Previous CSS remains the same until .fame-container] */
+
+.fame-container {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    background-color: #21211F;
+}
+
+.fame-header {
+    font-family: 'Lemon/Milk light', sans-serif;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.fame-columns {
+    display: flex;
+    gap: 20px;
+}
+
+.fame-column {
+    flex: 1;
+    min-width: 0;
+}
+
+.fame-column h3 {
+    font-family: 'Lemon/Milk light', sans-serif;
+    letter-spacing: 1px;
+    color: #6E6761;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.fame-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #292725;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.fame-item:hover {
+    background-color: #33312e;
+}
+
+.fame-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+}
+
+.fame-name {
+    min-width: 120px;
+    font-weight: bold;
+    flex: 1;
+}
+
+.fame-level {
+    width: 120px;
+    height: 10px;
+    background-color: #333;
+    border-radius: 5px;
+    margin: 0 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.fame-level-fill {
+    height: 100%;
+    border-radius: 5px;
+}
+
+.fame-value {
+    width: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* [Rest of the CSS remains the same] 
+/* For the value display */
+.fame-value {
+    width: 20px;
+    text-align: center;
+    font-weight: bold;
+    /* Add this to match JS colors */
+    color: inherit; /* This will use the color set by JS */
+}
+
+/* [Previous CSS remains the same until .fame-item] */
+
+.fame-item {
+    display: flex;
+    align-items: flex-start; /* Changed to flex-start for better description alignment */
+    margin-bottom: 15px;
+    padding: 15px; /* Increased padding */
+    background-color: #292725;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    flex-wrap: wrap; /* Allow wrapping for description */
+}
+
+.fame-info {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 8px; /* Space between info and description */
+}
+
+.fame-image {
+    width: 50px; /* Slightly larger */
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+    border: 1px solid #444;
+}
+
+.fame-name {
+    min-width: 120px;
+    font-weight: bold;
+    flex: 1;
+}
+
+.fame-level-container {
+    display: flex;
+    align-items: center;
+    min-width: 180px;
+}
+
+.fame-level {
+    width: 120px;
+    height: 10px;
+    background-color: #333;
+    border-radius: 5px;
+    margin: 0 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.fame-description {
+    font-size: 11px;
+    line-height: 1.4;
+    color: #a2988e;
+    padding-left: 65px; /* Align with image */
+    width: 100%;
+    text-align:justify;
+  margin-top:-15px;
+  padding-right:25px;
+}
+
+/* [Rest of the CSS remains the same] */
+
+/* Character List Scrollbar Styles */
+.character-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+.character-list::-webkit-scrollbar-track {
+    background: #333;
+    border-radius: 4px;
+}
+
+.character-list::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 4px;
+}
+
+.character-list::-webkit-scrollbar-thumb:hover {
+    background: #777;
+}
+
+/* Dark Mode Scrollbar Styles */
+.dark-mode .character-list::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.dark-mode .character-list::-webkit-scrollbar-thumb {
+    background: #ccc;
+}
+
+.dark-mode .character-list::-webkit-scrollbar-thumb:hover {
+    background: #aaa;
+}
+
+/* Make sure the character list has proper scroll behavior */
+.character-list {
+    scrollbar-width: thin; /* For Firefox */
+    scrollbar-color: #555 #333; /* For Firefox */
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.dark-mode .character-list {
+    scrollbar-color: #ccc #f1f1f1; /* For Firefox */
+}
