@@ -30,7 +30,7 @@ z-index: 9999 !important;}
     font-family: 'Montserrat', sans-serif;
     font-size: 11px;
 }
-
+.dark-mode h2 {border-bottom-color: #ececec !important;}
 h2 {
     margin-top: 0;
     padding-bottom: 10px;
@@ -58,6 +58,7 @@ h2 {
     background-color: #33312e;
     transform: translateX(5px);
 }
+.dark-mode .character-card:hover {background: #ececec !important;}
 
 .character-image {
     width: 40px !important;
@@ -113,7 +114,7 @@ h2 {
     font-family: 'Lemon/Milk light', sans-serif;
     letter-spacing: 1px;
     color: #6E6761;
-    border-bottom: 1px solid #333;
+    border-bottom: 0px solid #333;
     padding-bottom: 5px;
     margin-bottom: 15px;
 }
@@ -222,7 +223,7 @@ h2 {
     font-family: 'Lemon/Milk light', sans-serif;
     letter-spacing: 1px;
     color: #6E6761;
-    border-bottom: 1px solid #333;
+    border-bottom: 0px solid #333;
     padding-bottom: 5px;
     margin-bottom: 15px;
     text-align: center;
@@ -378,4 +379,90 @@ h2 {
     overflow-y: auto;
     overflow-x: hidden;
   
+}
+
+/* Update the dark mode toggle styles */
+.dark-mode-toggle {
+    position: fixed;
+    bottom: 35px;
+    right: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    z-index: 999;
+    font-family: 'archivo', sans-serif;
+    font-size: 20px;
+    color: #6E6761;
+    text-align: center;
+    width: 15px;
+    height: 15px;
+    background-color: #292725;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dark-mode-toggle:hover {
+    color: #aba19e;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+    background: white;
+    color: #333;
+}
+
+.dark-mode prilipdytas {background: #f5f5f5 !important;}
+body.dark-mode .character-list {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+body.dark-mode .fame-container {
+    background-color: white;
+}
+
+body.dark-mode .fame-item {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+body.dark-mode .fame-item:hover {
+    background-color: #e0e0e0;
+}
+
+body.dark-mode .fame-category h3 {
+    color: #333;
+    border-bottom: #f5f5f5 !important;
+}
+
+body.dark-mode .dark-mode-toggle {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+body.dark-mode .search-input {
+    background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+    color: white;
+}
+
+body.dark-mode .fame-description {
+    color: #666;
+}
+
+/* Scrollbar styles for dark mode */
+body.dark-mode .character-list::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+body.dark-mode .character-list::-webkit-scrollbar-thumb {
+    background: #ccc;
+}
+
+body.dark-mode .character-list::-webkit-scrollbar-thumb:hover {
+    background: #aaa;
+}
+
+body.dark-mode .character-list {
+    scrollbar-color: #ccc #f1f1f1;
 }
